@@ -6,6 +6,8 @@ export const environment = {
   production: false
 };
 
+export const SPOTIFY_API_URL = "https://api.spotify.com/v1/";
+
 /*
  * For easier debugging in development mode, you can import the following file
  * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
